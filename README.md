@@ -1,6 +1,15 @@
 # backend challenge:
 
 Instalation instructions:
+Add .env file in root dir with the followed:
+HOST=localhost
+PORT=3000
+MYSQL_HOST=localhost
+MYSQL_USER=root
+MYSQL_PASS=
+MYSQL_DB_NAME=challenge
+USER_TOKEN_SECRET = asdkjnk132424-MY-SECRETT-asdasd
+
 1. Run $ npm i
 2. Run $ npm run dev
 
