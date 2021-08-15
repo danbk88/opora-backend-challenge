@@ -22,4 +22,3 @@ Notes:
 - API Documentation - While running visit http://localhost:3000/docs.
 - Postman library attached in mail.
 - Authorization header typed Bearer is required in all requests, all strings are valid.
-- .env file added to git in intention.
